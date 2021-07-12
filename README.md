@@ -4,30 +4,30 @@ Python exercises that I developed during the completion of the Free Code Camp co
 
 ## 🖥️ Scientific Computer with Python: 
 
-Exercise                | Exercise Link
----------               | ------
-Arithmetic Formater     | [First Exercise](https://github.com/wollieliza/freecodecamp-python-exercises/tree/main/scientific-computer-with-python/boilerplate-arithmetic-formater)
-Time Calculator         | [Second Exercise](https://github.com/wollieliza/freecodecamp-python-exercises/tree/main/scientific-computer-with-python/boilerplate-time-calculator)
-Budget App              | [Third Exercise](https://github.com/wollieliza/freecodecamp-python-exercises/tree/main/scientific-computer-with-python/boilerplate-budget-app)
-Polygon Area Calculator | [Fourth Exercise](https://github.com/wollieliza/freecodecamp-python-exercises/tree/main/scientific-computer-with-python/boilerplate-polygon-area-calculator)
-Probability Calculator  | [Fifth Exercise](https://github.com/wollieliza/freecodecamp-python-exercises/tree/main/scientific-computer-with-python/boilerplate-probability-calculator)
+Exercise  | Exercise Link
+:-------: | ------
+1         | [Arithmetic Formater](https://github.com/wollieliza/freecodecamp-python-exercises/tree/main/scientific-computer-with-python/boilerplate-arithmetic-formater)
+2         | [Time Calculator](https://github.com/wollieliza/freecodecamp-python-exercises/tree/main/scientific-computer-with-python/boilerplate-time-calculator)
+3         | [Budget App](https://github.com/wollieliza/freecodecamp-python-exercises/tree/main/scientific-computer-with-python/boilerplate-budget-app)
+4         | [Polygon Area Calculator](https://github.com/wollieliza/freecodecamp-python-exercises/tree/main/scientific-computer-with-python/boilerplate-polygon-area-calculator)
+5         | [Probability Calculator](https://github.com/wollieliza/freecodecamp-python-exercises/tree/main/scientific-computer-with-python/boilerplate-probability-calculator)
 
 ## 📊 Data Analysis with Python:
 
-Exercise                                    | Exercise Link
----------                                   | ------
-Mean-Variance-Standard Deviation Calculator | Link
-Demographic Data Analyzer                   | Link
-Medical Data Visualizer                     | Link
-Page View Time Series Visualizer            | Link
-Sea Level Predictor                         | Link
+Exercise  | Exercise Link
+:-------: | ------
+1         | [Mean-Variance-Standard Deviation Calculator]()
+2         | [Demographic Data Analyzer]()
+3         | [Medical Data Visualizer]()
+4         | [Page View Time Series Visualizer]()
+5         | [Sea Level Predictor]()
 
 ## 📝 Machine Learning with Python:
 
-Exercise                                  | Exercise Link
----------                                 | ------
-Rock Paper Scissors                       | Link
-Cat and Dog Image Classifier              | Link
-Book Recommendation Engine using KNN      | Link
-Linear Regression Health Costs Calculator | Link
-Neural Network SMS Text Classifier        | Link
+Exercise  | Exercise Link
+:-------: | ------
+1         | [Rock Paper Scissors]()
+2         | [Cat and Dog Image Classifier]()
+3         | [Book Recommendation Engine using KNN]()
+4         | [Linear Regression Health Costs Calculator]()
+5         | [Neural Network SMS Text Classifier]()

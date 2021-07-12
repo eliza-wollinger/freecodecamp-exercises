@@ -6,11 +6,11 @@ Python exercises that I developed during the completion of the Free Code Camp co
 
 Exercise                | Exercise Link
 ---------               | ------
-Arithmetic Formater     | Link
-Time Calculator         | Link
-Budget App              | Link
-Polygon Area Calculator | Link
-Probability Calculator  | Link
+Arithmetic Formater     | [First Exercise](https://github.com/wollieliza/freecodecamp-python-exercises/tree/main/scientific-computer-with-python/boilerplate-arithmetic-formater)
+Time Calculator         | [Second Exercise](https://github.com/wollieliza/freecodecamp-python-exercises/tree/main/scientific-computer-with-python/boilerplate-time-calculator)
+Budget App              | [Third Exercise](https://github.com/wollieliza/freecodecamp-python-exercises/tree/main/scientific-computer-with-python/boilerplate-budget-app)
+Polygon Area Calculator | [Fourth Exercise](https://github.com/wollieliza/freecodecamp-python-exercises/tree/main/scientific-computer-with-python/boilerplate-polygon-area-calculator)
+Probability Calculator  | [Fifth Exercise](https://github.com/wollieliza/freecodecamp-python-exercises/tree/main/scientific-computer-with-python/boilerplate-probability-calculator)
 
 ## 📊 Data Analysis with Python:
 

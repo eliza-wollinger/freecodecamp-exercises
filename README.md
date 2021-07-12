@@ -1,4 +1,4 @@
-# ![Free Code Camp Exercises Banner](https://user-images.githubusercontent.com/57842220/125210279-2aad8d00-e275-11eb-8ad6-7124c4f9b28d.png)
+# ![Free Code Camp Exercises Banner](https://user-images.githubusercontent.com/57842220/125235108-4d14ca00-e2b8-11eb-9b9f-ad228af4d09e.png)
 
 Python exercises that I developed during the completion of the Free Code Camp courses 🐍
 

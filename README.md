@@ -16,7 +16,7 @@ Exercise  | Exercise Link
 
 Exercise  | Exercise Link
 :-------: | ------
-1         | [Mean-Variance-Standard Deviation Calculator]()
+1         | [Mean-Variance-Standard Deviation Calculator](https://github.com/wollieliza/freecodecamp-python-exercises/tree/main/data-analysis-with-python/boilerplate-mean-variance-standard-deviation-calculator)
 2         | [Demographic Data Analyzer]()
 3         | [Medical Data Visualizer]()
 4         | [Page View Time Series Visualizer]()

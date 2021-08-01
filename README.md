@@ -18,7 +18,7 @@ Exercise  | Exercise Link
 :-------: | ------
 1         | [Mean-Variance-Standard Deviation Calculator](https://github.com/wollieliza/freecodecamp-python-exercises/tree/main/data-analysis-with-python/boilerplate-mean-variance-standard-deviation-calculator)
 2         | [Demographic Data Analyzer](https://github.com/wollieliza/freecodecamp-python-exercises/tree/main/data-analysis-with-python/boilerplate-demographic-data-analyzer)
-3         | [Medical Data Visualizer]()
+3         | [Medical Data Visualizer](https://github.com/wollieliza/freecodecamp-python-exercises/tree/main/data-analysis-with-python/boilerplate-medical-data-visualizer)
 4         | [Page View Time Series Visualizer]()
 5         | [Sea Level Predictor]()
 

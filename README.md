@@ -1,6 +1,17 @@
-# ![Free Code Camp Exercises Banner](https://user-images.githubusercontent.com/57842220/125235108-4d14ca00-e2b8-11eb-9b9f-ad228af4d09e.png)
+![Banner Free Code Camp Exercises](https://user-images.githubusercontent.com/57842220/129662511-46125cfd-4c33-4f75-a60b-139e1f94ac90.png)
 
-Python exercises that I developed during the completion of the Free Code Camp courses 🐍
+Here I leave my journey to become a a software engineer... 💻
+I spent a few hours developing these exercises from the [freeCodeCamp](https://www.freecodecamp.org/) courses
+
+## ⭐ Responsive Web Design:
+
+Exercise  | Exercise Link
+:-------: | ------
+1         | [Tribute Page]()
+2         | [Survey Form]()
+3         | [Product Landing Page]()
+4         | [Technical Documentation Page]()
+5         | [Personal Portfolio Webpage]()
 
 ## 🖥️ Scientific Computer with Python: 
 

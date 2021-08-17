@@ -1,7 +1,6 @@
 ![Banner Free Code Camp Exercises](https://user-images.githubusercontent.com/57842220/129662511-46125cfd-4c33-4f75-a60b-139e1f94ac90.png)
 
-Here I leave my journey to become a a software engineer... 💻
-I spent a few hours developing these exercises from the [freeCodeCamp](https://www.freecodecamp.org/) courses
+Here I leave my journey to become a a software engineer... I spent a few hours developing these exercises from the [freeCodeCamp](https://www.freecodecamp.org/) courses 💻
 
 ## ⭐ Responsive Web Design:
 

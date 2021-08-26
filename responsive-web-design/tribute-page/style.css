@@ -1,0 +1,206 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  body {
+    width: 100vw;
+    height: 100vh; 
+    color: #27418D;
+    padding-top: 2rem;
+    overflow-x: hidden;
+    position: relative;
+    background-color: #CDD3DE;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  nav {
+    top: 0;
+    width: 100%;
+    z-index: 100;
+    color: #FFFFFF;
+    position: fixed;
+    text-align: center;
+    background-color: #27418D;
+    height: 2rem;
+  }
+  
+  nav a, footer a {
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 0 1rem 0 1rem;
+  }
+  
+  nav a:active {
+    font-weight: 900;
+  }
+  
+  main {
+    position: relative;
+  }
+  
+  #tribute-info {
+    width: 100vw;
+    height: 100vh;
+    color: #FFFFFF;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #27418D;
+  }
+  
+  #info-img, .einstein {
+    height: 70%;
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  
+  #normal-einstein {
+    position: absolute;
+    z-index: 50;
+    animation: tongue 1s infinite reverse step-start;
+  }
+  
+  #tongue-einstein {
+    z-index: 40;
+  }
+  
+  @keyframes tongue {
+    0% {filter: opacity(0);}
+    50% {filter: opacity(1);}
+    100% {filter: opacity(0);}
+  }
+  
+  @keyframes normal {
+    0% {visibility: visible;}
+    100% {visibility: hidden;}
+  }
+  
+  #info-text h1, #info-text h3 {
+    font-weight: 300;
+    padding: 0 0 0 0;
+  }
+  
+  #info-text h6 {
+    font-weight: 100;
+    padding: 2rem 0 2rem 0;
+  }
+  
+  #tribute-about h1 {
+    
+    text-align: center;
+    padding: 2rem 0 1rem 0;
+  }
+  
+  .data-order {
+    display: flex;
+    padding: 2rem 3rem 2rem 3rem;
+  }
+  
+  .year, .text {
+    padding: 0 1rem 0 1rem;
+  }
+  
+  .center-order {
+    display: flex;
+    justify-content: center;
+    padding: 2rem 3rem 2rem 3rem;
+  }
+  
+  #atom-model {
+    height: auto;
+    max-width: 7rem;
+    padding: 0 1rem 0 1rem;
+  }
+  
+  #relativity-formula {
+    color: #F25083 !important;
+  }
+  
+  #img-div {
+    display: flex;
+    max-width: 100%;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  #image {
+    height: auto;
+    max-width: 35rem; 
+  }
+  
+  #img-caption {
+    top: 10px;
+    right: 20px;
+    color: #FFFFFF;
+    text-align: center;
+    position: absolute;
+    padding: 0.1rem 0 0.1rem 0;
+  }
+  
+  @media screen and (max-width: 959px) {
+    #img-caption {
+          font-size: 30px;
+      }
+  }
+  
+  @media screen and (min-width: 768px) and (max-width: 959px) {
+      #img-caption {
+          font-size: 25px;
+      }
+  }
+  
+  @media screen and (max-width: 767px) {
+      #img-caption {
+          font-size: 20px;
+      }
+  }
+  
+  @media screen and (min-width: 480px) and (max-width: 767px) {
+      #img-caption {
+          font-size: 14px;
+      }
+  }
+  
+  @media screen and (max-width: 480px) {
+      #img-caption {
+          font-size: 12px;
+      }
+  }
+  
+  #einstein-speak {
+    display: flex;
+    height: auto;
+    max-width: 10rem;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  #ballon{
+    max-width: 100%;
+  }
+  
+  footer {
+    width: 100vw;
+    color:#FFFFFF;
+    text-align: center;
+    position: absolute;
+    padding: 2rem 0 2rem 0;
+    background-color: #27418D;
+  }
+  
+  footer a:hover {
+    color: #F9DE26;
+    font-weight: 700;
+  }
+  
+  footer h6 {
+    font-weight: 100;
+    padding: 1rem 0 0 0;
+  }

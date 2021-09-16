@@ -7,7 +7,7 @@ Here I leave my journey to become a a software engineer... I spent a few hours d
 Exercise  | Exercise Link
 :-------: | ------
 1         | [Tribute Page](https://codepen.io/wollieliza/pen/QWgLLPy)
-2         | [Survey Form]()
+2         | [Survey Form](https://codepen.io/wollieliza/pen/PojPjpe)
 3         | [Product Landing Page]()
 4         | [Technical Documentation Page]()
 5         | [Personal Portfolio Webpage]()

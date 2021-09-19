@@ -8,9 +8,9 @@ Exercise  | Exercise Link
 :-------: | ------
 1         | [Tribute Page](https://codepen.io/wollieliza/pen/QWgLLPy)
 2         | [Survey Form](https://codepen.io/wollieliza/pen/PojPjpe)
-3         | [Product Landing Page]()
-4         | [Technical Documentation Page]()
-5         | [Personal Portfolio Webpage]()
+3         | [Product Landing Page](https://codepen.io/wollieliza/details/zYzvQje)
+4         | [Technical Documentation Page](https://codepen.io/wollieliza/pen/BaZJGqW)
+5         | [Personal Portfolio Webpage](https://codepen.io/wollieliza/pen/ZEyxOXJ)
 
 ## 🖥️ Scientific Computer with Python: 
 

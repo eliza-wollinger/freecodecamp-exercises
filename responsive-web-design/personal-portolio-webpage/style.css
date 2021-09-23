@@ -1,0 +1,120 @@
+* {
+    padding: 0;
+    margin: 0;
+    }
+  
+  body {
+    color: #17171A;
+    background-color: #FEFEFE;
+    font-family: 'Ubuntu', sans-serif;
+  }
+  
+  nav {
+    width: 100vw;
+    display: flex;
+    position: fixed;
+    align-items: center;
+    background-color: #FEFEFE;
+    justify-content: space-between;
+  }
+  
+  nav img {
+    height: 3rem;
+    padding-top: 0.5rem;
+    padding-left: 1rem;
+    padding-bottom: 0.5rem;
+  }
+  
+  nav a {
+    color: #17171A;
+    padding-right: 1rem;
+    text-decoration: none;
+  }
+  
+  #welcome-section {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction:column;
+    justify-content: center;
+    font-family: 'Ubuntu Mono', monospace;
+  }
+  
+  #welcome-section img {
+    height: 6rem;
+    padding-top: 1rem;
+  }
+  
+  #welcome-section h1 {
+    font-weight: normal;
+  }
+  
+  #about-section {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+  }
+  
+  #about-section img {
+    height: 15rem;
+    padding-left: 2rem;
+    padding-right: 1rem;
+  }
+  
+  #about-text {
+    padding-left: 1rem;
+    padding-right: 2rem;
+  }
+  
+  #projects {
+    width: 100vw;
+    display: flex;
+    padding-top: 5rem;
+    align-items: center;
+    flex-direction:column;
+  }
+  
+  #projects img {
+    height: 10rem;
+    padding-top: 0.5rem;
+    padding-left: 0.5rem;
+  }
+  
+  #contact {
+    width: 100vw;
+    display: flex;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    text-align: center;
+    align-items: center;
+    flex-direction:column;
+  }
+  
+  #contact img {
+    height: 3rem;
+    padding-top: 4rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+  
+  footer {
+    color: #FEFEFE;
+    padding-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    flex-direction:column;
+    justify-content: center;
+    background-color: #17171A;
+  }
+  
+  footer img {
+    height: 3rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+  
+  @media (max-width: 600px) {
+    
+  }

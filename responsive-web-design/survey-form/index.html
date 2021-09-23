@@ -1,0 +1,114 @@
+<html>
+  
+  <header>
+    
+    <meta charset="UTF-8">
+    
+    <title>Poshoe Survey Form</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    
+  </header>
+  
+  <body>
+    
+    <main id="main">
+      
+      <nav>
+        <img src="https://raw.githubusercontent.com/wollieliza/freecodecamp-exercises/126ec6276b3dbc80e62e7ec10f90309599604075/responsive-web-design/survey-form/assets/Logo.svg" alt="Poshoe logo.">
+      </nav>
+      
+      <div>
+        
+        <div id="intro">
+          <div id="intro-text">
+            <h1 id="title">HELLO</h1>
+            <p id="description">we would like to know what you thought of your purchase with us.</p>
+          </div>
+          <div id="intro-img">
+            <img src="https://raw.githubusercontent.com/wollieliza/freecodecamp-exercises/126ec6276b3dbc80e62e7ec10f90309599604075/responsive-web-design/survey-form/assets/Girl.svg" alt="Drawing of a girl buying a shoe over the internet sitting on a puff." id="image">
+          </div>
+        </div>
+        
+        <form id="survey-form">
+          <div class="form-area">
+            <label id="name-label" for="name" class="question">Name</label>
+            <input type="text" name="name" id="name" class="form-control" placeholder="enter your name here" required>
+          </div>
+          <div class="form-area">
+            <div class="section">
+              <div class="input-form">
+                <label id="email-label" for="email" class="question">Email</label>
+                <input type="email" name="email" id="email" class="form-control" placeholder="your best email" required>
+              </div>
+              <div class="input-form" id="age">
+                <label id="number-label" for="number" class="question">Age</label>
+                <input type="number" name="number" id="number" min="5" max="99" class="form-control" placeholder="age?">
+              </div>
+            </div>
+          </div>
+          <div class="form-area">
+            <p class="question">
+              What product(s) did you buy?
+              <span class="clue"> (Check all that apply)</span>
+            </p>
+            <div class="checkbox-option">
+              <input name="prefer" id="shoes" value="shoes" type="checkbox" class="input-checkbox">
+              <label for="shoes">Shoes</label>
+            </div>
+            <div class="checkbox-option">
+              <input name="prefer" id="backpacks" value="backpacks" type="checkbox" class="input-checkbox">
+              <label for="backpacks">Backpacks</label>
+            </div>
+            <div class="checkbox-option">
+              <input name="prefer" id="clothes" value="clothes" type="checkbox" class="input-checkbox">
+              <label for="clothes">Clothes</label>
+            </div>
+            <div class="checkbox-option">
+              <input name="prefer" value="others" id="others" type="checkbox" class="input-checkbox">
+              <label for="others">Others</label>
+            </div>
+          </div>
+          <div class="form-area">
+            <p class="question">Where did you buy it?</p>
+            <select class="form-control" id="dropdown" required>
+              <option disabled selected value>Select an option</option>
+              <option value="online">Online store</option>
+              <option value="physical">Physical store</option>
+              <option value="both">Both</option>
+            </select>
+          </div>
+          <div class="form-area">
+            <p class="question">Would you recommend our store?</p>
+            <div class="input-radio">
+              <input name="recommend" id="definitely" value="definitely" type="radio" class="input-radio">
+              <label for="definitely">Definitely</label>
+            </div>
+            <div class="input-radio">
+              <input name="recommend" id="maybe" value="maybe" type="radio" class="input-radio">
+              <label for="maybe">Maybe</label>
+            </div>
+            <div class="input-radio">
+              <input name="recommend" id="not-sure" value="not-sure" type="radio" class="input-radio">
+              <label for="not-sure">Not sure</label>
+            </div>
+          </div>
+          <div class="form-area">
+            <p class="question">Any comments or suggestions?</p>
+            <textarea id="comments" class="input-textarea" name="comment"></textarea>
+          </div>
+          <div class="submit-div">
+            <button type="submit" id="submit" class="submit-button">SEND</button>
+          </div>
+        </form>
+        
+        <footer></footer>
+        
+      </div>
+      
+    </main>
+  </body>
+  
+</html>

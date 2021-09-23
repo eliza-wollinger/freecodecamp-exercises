@@ -1,0 +1,125 @@
+* {
+    padding: 0;
+    margin: 0;
+    }
+  
+  body {
+    color: #283A4A;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #E5ECF1;
+    font-family: 'Inter', sans-serif;
+  }
+  
+  header {
+    width: 100vw;
+    display: flex;
+    position: fixed;
+    align-items: center;
+    background-color: #E5ECF1;
+    justify-content: space-between;
+  }
+  
+  header img {
+    height: 1rem;
+    margin-top: 1rem;
+    margin-left: 3rem;
+    margin-bottom: 1rem;
+  }
+  
+  nav a {
+    color: #283A4A;
+    padding-right: 2rem;
+    text-decoration: none;
+  }
+  
+  iframe {
+    width: 100vw;
+    height: 100vh;
+    padding-top: 3rem;
+  }
+  
+  #features {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .feature {
+    display: flex;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+    
+  }
+  
+  .feature p {
+    margin-right: 2rem;
+  }
+  
+  #shoe {
+    width: 5rem;
+    padding-left: 2rem;
+    padding-right: 1rem;
+  }
+  
+  #leaf {
+    height: 3.7rem;
+    padding-left: 3.5rem;
+    padding-right: 2.5rem;
+  }
+  
+  .card {
+    width: 20rem;
+    display: flex;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    flex-direction: column;
+    align-items: center;
+    background-color: #CFDBE5;
+  }
+  
+  .card img {
+    width: 20rem;
+  }
+  
+  button, input[type="submit"] {
+    border: 0;
+    outline: 0;
+    width: 15%;
+    padding: 15px;
+    font-weight: 1000;
+    border-radius: 0.2rem;
+    cursor: pointer;
+    color: #344B60;
+    background-color: #44FC78;
+  }
+  
+  button:hover, button:active, input[type="submit"]:hover, input[type="submit"]:active {
+    color: #283A4A;
+    background-color: #31A552;
+  }
+  
+  form {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  input[type="email"] {
+    border: 0;
+    outline: 0;
+    width: 50%;
+    padding: 1rem;
+    font-size: 14px;
+    border-radius: 0.2rem;
+    background-color: #CFDBE5;
+    box-sizing: border-box;
+  }
+  
+  @media (max-width: 600px) {
+    
+  }
